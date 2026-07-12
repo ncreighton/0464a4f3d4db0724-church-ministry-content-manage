@@ -1,0 +1,2 @@
+# 0464a4f3d4db0724-church-ministry-content-manage
+church ministry professionals waste hours on context-switching away from your editor to look things up. This fixes that.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Church Ministry Content Management And Publishing — f
